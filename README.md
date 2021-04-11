@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Polina!
+
+### Some of my GitHub stats:
+---
 
 <!--
 **polinariabar/polinariabar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,4 +21,3 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=polinariabar)](https://github.com/anuraghazra/github-readme-stats)
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polinariabar&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polinariabar&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
